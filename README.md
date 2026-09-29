@@ -278,28 +278,32 @@ Generate Election Results
 The following screenshots demonstrate the major modules and workflow of the system.
 
 ### E-Voting System Workflow
-
 The workflow illustrates the overall process from voter registration and verification to vote casting and result declaration.
 
-![E-Voting Workflow](images/e-voting-workflow.jpeg)
+![E-Voting Workflow](images/flowchart.jpeg)
+
+### User Module
+The User Module allows voters to securely access the e-voting system by entering their Aadhaar Number for verification.
+
+![E-Voting Workflow](images/UserModule.jpeg)
 
 ### Admin Dashboard
 
 The Django administration interface provides control over voters, political parties, votes, vote backups, and blockchain blocks.
 
-![Admin Dashboard](images/admin-dashboard.jpeg)
+![Admin Dashboard](images/AdminModule.jpeg)
 
 ### Aadhaar-Based Voter Verification
 
 The voter verification interface allows voter information to be verified before proceeding with the voting process.
 
-![Voter Verification](images/voter-verification.jpeg)
+![Voter Verification](images/Voter Verification Details.jpeg)
 
 ### Candidate & Political Party Selection
 
 Voters can view available political parties and candidates before selecting their preferred candidate.
 
-![Candidate Selection](images/candidate-selection.jpeg)
+![Candidate Selection](images/Cnadidate and party selection page.jpeg)
 
 ### Blockchain Blocks
 
@@ -313,7 +317,7 @@ The blockchain interface displays blocks along with:
 - Timestamp
 - Verification Status
 
-![Blockchain Blocks](images/blockchain-blocks.jpeg)
+![Blockchain Blocks](images/BlockchainDetails.jpeg)
 
 ---
 
