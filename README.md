@@ -316,14 +316,12 @@ The Django administration interface provides control over voters, political part
 
 The voter verification interface allows voter information to be verified before proceeding with the voting process.
 
-![Voter Verification](images/Voter Verification Details.jpeg)
-
+![Voter Verification](images/Voter%20Verification%20Details.jpeg)
 ### Candidate & Political Party Selection
 
 Voters can view available political parties and candidates before selecting their preferred candidate.
 
-![Candidate Selection](images/Cnadidate and party selection page.jpeg)
-
+![Candidate Selection](images/Cnadidate%20and%20party%20selection%20page.jpeg)
 ### Blockchain Blocks
 
 The blockchain interface displays blocks along with:
