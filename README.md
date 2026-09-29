@@ -1,8 +1,27 @@
 # 🗳️ E-Voting Using Blockchain Technology
 
+
+
 _A secure and transparent electronic voting system that improves voting security, data integrity, transparency, and traceability using Blockchain, Django, and Ethereum._
 
 ---
+
+---
+
+## 📩 Project Availability & Contact
+
+If you are interested in this project, feel free to contact me.
+I can provide the project details and discuss the requirements.
+
+---
+
+## Contact
+
+**Techvanta**  
+Software Engineer
+
+📱 Call/WhatsApp: 7996671287
+📧 Email: techvanta.dev@gmail.com 
 
 ## 📌 Table of Contents
 
