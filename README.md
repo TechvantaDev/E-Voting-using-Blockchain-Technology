@@ -429,4 +429,4 @@ python manage.py runserver
 Software Engineer
 
 📧 Email: [techvanta.dev@gmail.com](mailto:techvanta.dev@gmail.com)
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+
